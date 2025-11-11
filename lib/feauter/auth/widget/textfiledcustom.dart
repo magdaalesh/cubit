@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../const/color.dart';
-import '../../const/size.dart';
+import '../../../const/color.dart';
+import '../../../const/size.dart';
 
 class Textfiledcustom extends StatelessWidget {
   Textfiledcustom({

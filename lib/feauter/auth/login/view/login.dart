@@ -1,6 +1,6 @@
-import 'package:cubit/auth/cubit/password_cubit.dart';
-import 'package:cubit/auth/signup/view/signup.dart';
-import 'package:cubit/auth/widget/textbuttoncustom.dart';
+import 'package:cubit/feauter/auth/cubit/password_cubit.dart';
+import 'package:cubit/feauter/auth/signup/view/signup.dart';
+import 'package:cubit/feauter/auth/widget/textbuttoncustom.dart';
 import 'package:cubit/const/appbuttonstyle.dart';
 import 'package:cubit/const/apptextstyle.dart';
 import 'package:cubit/const/size.dart';

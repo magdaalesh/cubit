@@ -1,5 +1,5 @@
-import 'package:cubit/auth/login/view/login.dart';
-import 'package:cubit/auth/widget/textbuttoncustom.dart';
+import 'package:cubit/feauter/auth/login/view/login.dart';
+import 'package:cubit/feauter/auth/widget/textbuttoncustom.dart';
 import 'package:cubit/const/appbuttonstyle.dart';
 import 'package:cubit/const/apptextstyle.dart';
 import 'package:cubit/const/size.dart';
